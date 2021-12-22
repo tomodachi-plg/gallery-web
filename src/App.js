@@ -1,9 +1,10 @@
-import React from "react";
+import React from 'react';
+import Register from './ui/Register';
 
 const App = () => {
   return (
     <div>
-      <h1>APP</h1>
+      <Register />
     </div>
   );
 };
